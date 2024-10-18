@@ -1,7 +1,5 @@
 # FLEX N FRIENDS
 
-![Team Photo](https://github.com/dartmouth-cs98-23f/project-gym-elo-frontend/blob/main/assets/group-photo.png)
-
 Flex N Friends is the one stop shop for communal and personal gym record-keeping. We want this app to supercede the competition by providing an intuitive UI with strong communal aspects as the centerpiece of our design. The 4 main pillars of this product are users, workouts, communication, and teams. Users can network and meet new gym-goers through the friend system, which allows them to communicate via messages and coordinate team or gym-wide events!
 
 ## Architecture
