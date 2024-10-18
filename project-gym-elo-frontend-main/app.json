@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Flex N Friends",
+    "slug": "gymelo",
+    "privacy": "hidden",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.1.5",
+    "orientation": "portrait",
+    "icon": "./assets/F_F_Logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.flexnfriends.gymelo"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bab188fa-4f56-4403-9e3a-b60c34e81fbe"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
